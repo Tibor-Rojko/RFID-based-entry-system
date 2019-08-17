@@ -1,2 +1,2 @@
 # RFID-based-entry-system
-Using Arduino IDE, and MFRC522
+Using Arduino IDE, and MFRC522 module
